@@ -1,2 +1,14 @@
 
 /* Your CSS Code here. */
+.para
+{
+	font-weight:bold
+}
+blockquote[cite="https://en.wikipedia.org/wiki/New_Delhi"]
+{
+	margin: 10px;
+   padding: 15px;
+   border-left: 8px solid green;
+   background-color: #f8fffe;
+
+}
